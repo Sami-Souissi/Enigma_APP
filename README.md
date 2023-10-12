@@ -87,7 +87,7 @@ To get started with the Enigma App, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/Enigma-App.git
+   git clone https://github.com/Sami-Souissi/Enigma_APP.git
    ```
 
 2. Install the necessary dependencies.
