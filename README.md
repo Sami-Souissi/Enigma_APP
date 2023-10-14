@@ -28,7 +28,7 @@ The Enigma App is a cutting-edge demonstration of Enigma's exceptional technolog
 
 ## Live Demo
 
-🌐 Explore the live demo of the Enigma App: [**Live Demo**](https://example.com) <!-- Replace with the actual live demo URL -->
+🌐 Explore the live demo of the Enigma App: [**Live Demo**](https://sami-souissi.github.io/Enigma_APP/) 
 
 Feel free to interact with the app and experience its features in action.
 
