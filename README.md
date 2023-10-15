@@ -4,7 +4,7 @@
 
 # Enigma App
 
-The Enigma App is a cutting-edge demonstration of Enigma's exceptional technological prowess and innovative solutions. Designed by our dedicated team of experts, this app showcases the limitless potential of our company's services.
+The Enigma App is a cutting-edge demonstration of Enigma's exceptional technological prowess and innovative solutions.This app showcases the limitless potential of our company's services.
 
 ## Preview
 ![Enigma App](./Preview/thumb.gif)
